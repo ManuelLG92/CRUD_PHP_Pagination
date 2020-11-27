@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+td {
+    padding: 0.5em;
+    height: 1em;
+}
+
+.container {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    margin-top: 2em;
+    background-color: rgb(66, 64, 64);
+    padding: 2em;
+}
+
+table {   
+    width: 90%;
+    margin: 0 auto;
+    
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 2px solid rgb(168, 158, 158);
+}
+
+.botones {
+    background-color: rgb(92, 90, 90);
+}
+span {
+    margin: 1em;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.link {
+    margin-top: 3em;
+}
+
+input[type="image"] {
+    margin-right: 3em;
+}
+
+.boton-navegacion {
+    width: 16px;
+}
+
+.centrar {
+    display: block;
+    margin: 0 auto;
+   
+}
+
+.tituloCrud {
+    padding: 1em;
+}
+.ChoicesRegistroTextAlign {
+    text-align: left;
+}
+
+.ChoicesRegistroTextAlign fieldset {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.ChoicesRegistroTextAlign fieldset legend {
+    margin-bottom: 1em;
+}
+
+.ChoicesRegistroTextAlign input {
+    margin-bottom: 1em;
+}
+
+.imagenCeldas{
+    width: 20px;
+}
+
+.imagenUltimaFila {
+    width: 30px;
+}
+
+.pagina_session p {
+    text-align: right;
+    width: 90%;
+    color: white;
+}
+
